@@ -1,8 +1,11 @@
 此项目通过flask_see实现了SSE功能
+
 flask_sse文档: http://flask-sse.readthedocs.io/en/latest/index.html
+
 博客网址: http://www.cnblogs.com/rgcLOVEyaya/p/RGC_LOVE_YAYA_624days.html
 
 开启服务方法：
+
 第一种方法：通过gevent+uWSGI服务器
           运行 start_project.sh 脚本
 
