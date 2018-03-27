@@ -6,11 +6,11 @@ flask_sse文档: http://flask-sse.readthedocs.io/en/latest/index.html
 
 开启服务方法：
 
-          第一种方法：通过gevent+uWSGI服务器
-                    运行 start_project.sh 脚本
+  第一种方法：通过gevent+uWSGI服务器
+            运行 start_project.sh 脚本
 
-          第二种方法: 通过gevent+gunicorn服务器
-                     进入到sse.py目录,输入  gunicorn sse:app --worker-class gevent --workers 4 --bind 127.0.0.1:5000  运行
+  第二种方法: 通过gevent+gunicorn服务器
+             进入到sse.py目录,输入  gunicorn sse:app --worker-class gevent --workers 4 --bind 127.0.0.1:5000  运行
 
 项目使用方法：
 
