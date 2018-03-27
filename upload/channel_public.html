@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Flask-SSE Quickstart</title>
+</head>
+<body>
+<h1>Channel:channel_public</h1>
+<div id="get_message"></div>
+<script src="jquery-3.1.1.js" type="text/javascript" charset="utf-8"></script>
+<script>
+    $(function () {
+        var source = new EventSource("/stream1?channel=channel_public");
+        source.addEventListener('social', function (event) {
+            var data = JSON.parse(event.data);
+            $('#get_message').append(data.message+'&nbsp;&nbsp;&nbsp;&nbsp;');
+        }, false);
+        source.addEventListener('error', function (event) {
+            console.log('reconnected service!')
+        }, false);
+    })
+</script>
+</body>
+</html>

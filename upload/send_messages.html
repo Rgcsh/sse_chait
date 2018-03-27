@@ -1,0 +1,47 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+channel:<input type="text" id="channel" value=""/>
+<div>You can choise these channels: channel_bob,channel_tom,channel_public</div>
+<br/>
+message:<input type="text" id="message" value=""/>
+<br/>
+<button id="button">send message</button>
+<div id="success"></div>
+<script src="jquery-3.1.1.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript">
+    <!--发送消息页面，发送给三个不同的channel,点击发送按钮后，对于的channel页面会接收到数据-->
+    $(function () {
+        $("#button").click(function () {
+            var channel = $('#channel').val();
+            var message = $('#message').val();
+            var json_data = {
+                'channel': channel,
+                'message': message
+            }
+            var http_url = 'http://127.0.0.1:5000/';
+            $.ajax({
+                url: http_url + "messages",
+                type: 'post',
+                dataType: "json",
+                data: json_data,
+                success: function (data) {
+                    if (data.code == 200) {
+                        $('#success').text('Send message success!')
+                    }
+                },
+                error: function (jqXHR, textStatus, errorThrown) {
+                    console.log(textStatus)
+                    hide_popover('#user_deatil_submit', '程序错误,请联系管理员')
+                }
+            });
+        });
+    })
+</script>
+</body>
+</html>
