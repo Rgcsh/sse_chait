@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6107bdc1-88ab-435b-a54b-2f34e400409c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md~6fc9f2590190b9e077dacd30e6cabe9017e23c91" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sse_chait" afterPath="$PROJECT_DIR$/sse_chait" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sse_chait.iml" afterPath="$PROJECT_DIR$/.idea/sse_chait.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sse.py" afterPath="$PROJECT_DIR$/sse.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sse_chait.ini" afterPath="$PROJECT_DIR$/sse_chait.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/start_project.sh" afterPath="$PROJECT_DIR$/start_project.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/upload/channel_bob.html" afterPath="$PROJECT_DIR$/upload/channel_bob.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/upload/channel_public.html" afterPath="$PROJECT_DIR$/upload/channel_public.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/upload/channel_tom.html" afterPath="$PROJECT_DIR$/upload/channel_tom.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/upload/send_messages.html" afterPath="$PROJECT_DIR$/upload/send_messages.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wsgi.py" afterPath="$PROJECT_DIR$/wsgi.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,26 +38,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="497">
               <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="send_messages.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/upload/send_messages.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="channel_bob.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/upload/channel_bob.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -73,6 +68,36 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
               <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="channel_bob.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/upload/channel_bob.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery-3.1.1.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/upload/jquery-3.1.1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="channel_public.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/upload/channel_public.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -119,13 +144,14 @@
         <option value="$PROJECT_DIR$/upload/chnnel_tom.html" />
         <option value="$PROJECT_DIR$/upload/channel_tom.html" />
         <option value="$PROJECT_DIR$/upload/channel_public.html" />
-        <option value="$PROJECT_DIR$/sse_chait.ini" />
         <option value="$PROJECT_DIR$/wsgi.py" />
         <option value="$PROJECT_DIR$/upload/send_messages.html" />
         <option value="$PROJECT_DIR$/upload/channel_bob.html" />
         <option value="$PROJECT_DIR$/start_project.sh" />
         <option value="$PROJECT_DIR$/sse.py" />
         <option value="$PROJECT_DIR$/README" />
+        <option value="$PROJECT_DIR$/sse_chait.ini" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -164,6 +190,11 @@
           <expand>
             <path>
               <item name="sse_chait" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sse_chait" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sse_chait" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sse_chait" type="462c0819:PsiDirectoryNode" />
               <item name="sse_chait" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -326,6 +357,9 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -346,14 +380,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload/jquery-3.1.1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -437,14 +463,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/upload/channel_public.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/flask_test_mongo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -469,14 +487,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/upload/channel_bob.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -485,10 +495,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sse_chait.ini">
+    <entry file="file://$PROJECT_DIR$/README.md~6fc9f2590190b9e077dacd30e6cabe9017e23c91">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="38" lean-forward="false" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/jquery-3.1.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -501,10 +519,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sse_chait.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="38" lean-forward="false" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sse.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="497">
           <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/channel_bob.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/channel_public.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
           <folding />
         </state>
       </provider>
