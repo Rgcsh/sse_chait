@@ -1,5 +1,7 @@
 此项目通过flask_see实现了SSE功能
 
+SSE:服务器发送事件，传统http请求中，服务方都是被动的接受请求，然后发送数据。但是无法做到服务端主动发送请求给客户端，然而有些时候需要此功能。因此有了SSE或者Websocket技术来实现。SSE实现方式的是半双工，只能在连接建立后服务端发送数据给客户端，相反不行。（Websocket可以）
+
 flask_sse文档: http://flask-sse.readthedocs.io/en/latest/index.html
 
 博客网址: http://www.cnblogs.com/rgcLOVEyaya/p/RGC_LOVE_YAYA_624days.html
