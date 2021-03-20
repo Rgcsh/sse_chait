@@ -5,7 +5,7 @@ Flask-SSE==0.2.1
 gevent==1.4.0
 greenlet==0.4.15
 itsdangerous==1.1.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 pip==10.0.1
 pycparser==2.19
