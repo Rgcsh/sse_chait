@@ -7,7 +7,7 @@ greenlet==0.4.15
 itsdangerous==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
-pip==10.0.1
+pip==21.1
 pycparser==2.19
 redis==3.2.1
 setuptools==39.1.0
